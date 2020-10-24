@@ -29,10 +29,10 @@
 <br/>
 
 <a href="https://github.com/lenin0x321">
-  <img src="https://github-readme-stats.vercel.app/api?username=evildevill&show_icons=true&theme=blue-green&layout=compact" alt="evildevill GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lenin0x321&show_icons=true&theme=blue-green&layout=compact" alt="lenin0x321 GitHub Stats" />
 </a>
 <a href="https://github.com/lenin0x321">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evildevill&show_icons=true&theme=blue-green&layout=compact" alt"Most use languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenin0x321&show_icons=true&theme=blue-green&layout=compact" alt"Most use languages"/>
 </a>
 <br />
 
