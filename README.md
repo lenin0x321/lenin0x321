@@ -17,7 +17,7 @@
 <br/>
 
 ### Hi 🙋‍♂️,
-### I'm a 23-year-old self-taught developer, technical enthusiast, and cybersecurity learner from India.
+### I'm a 23-year-old self-taught, technical enthusiast, and cybersecurity learner from India.
 
 <br/>
 
